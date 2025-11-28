@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="tanchishegame.vcxproj" Id="ac29e97b-ee48-406b-ae8c-60c97ba1a7c6" />
+</Solution>
